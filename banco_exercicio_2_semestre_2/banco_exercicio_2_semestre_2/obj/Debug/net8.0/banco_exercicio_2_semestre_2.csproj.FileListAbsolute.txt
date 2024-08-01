@@ -1,0 +1,14 @@
+C:\Users\huandres_schmidt\Desktop\Projetos C#\banco_exercicio_2_semestre_2\banco_exercicio_2_semestre_2\bin\Debug\net8.0\banco_exercicio_2_semestre_2.exe
+C:\Users\huandres_schmidt\Desktop\Projetos C#\banco_exercicio_2_semestre_2\banco_exercicio_2_semestre_2\bin\Debug\net8.0\banco_exercicio_2_semestre_2.deps.json
+C:\Users\huandres_schmidt\Desktop\Projetos C#\banco_exercicio_2_semestre_2\banco_exercicio_2_semestre_2\bin\Debug\net8.0\banco_exercicio_2_semestre_2.runtimeconfig.json
+C:\Users\huandres_schmidt\Desktop\Projetos C#\banco_exercicio_2_semestre_2\banco_exercicio_2_semestre_2\bin\Debug\net8.0\banco_exercicio_2_semestre_2.dll
+C:\Users\huandres_schmidt\Desktop\Projetos C#\banco_exercicio_2_semestre_2\banco_exercicio_2_semestre_2\bin\Debug\net8.0\banco_exercicio_2_semestre_2.pdb
+C:\Users\huandres_schmidt\Desktop\Projetos C#\banco_exercicio_2_semestre_2\banco_exercicio_2_semestre_2\obj\Debug\net8.0\banco_exercicio_2_semestre_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huandres_schmidt\Desktop\Projetos C#\banco_exercicio_2_semestre_2\banco_exercicio_2_semestre_2\obj\Debug\net8.0\banco_exercicio_2_semestre_2.AssemblyInfoInputs.cache
+C:\Users\huandres_schmidt\Desktop\Projetos C#\banco_exercicio_2_semestre_2\banco_exercicio_2_semestre_2\obj\Debug\net8.0\banco_exercicio_2_semestre_2.AssemblyInfo.cs
+C:\Users\huandres_schmidt\Desktop\Projetos C#\banco_exercicio_2_semestre_2\banco_exercicio_2_semestre_2\obj\Debug\net8.0\banco_exercicio_2_semestre_2.csproj.CoreCompileInputs.cache
+C:\Users\huandres_schmidt\Desktop\Projetos C#\banco_exercicio_2_semestre_2\banco_exercicio_2_semestre_2\obj\Debug\net8.0\banco_exercicio_2_semestre_2.dll
+C:\Users\huandres_schmidt\Desktop\Projetos C#\banco_exercicio_2_semestre_2\banco_exercicio_2_semestre_2\obj\Debug\net8.0\refint\banco_exercicio_2_semestre_2.dll
+C:\Users\huandres_schmidt\Desktop\Projetos C#\banco_exercicio_2_semestre_2\banco_exercicio_2_semestre_2\obj\Debug\net8.0\banco_exercicio_2_semestre_2.pdb
+C:\Users\huandres_schmidt\Desktop\Projetos C#\banco_exercicio_2_semestre_2\banco_exercicio_2_semestre_2\obj\Debug\net8.0\banco_exercicio_2_semestre_2.genruntimeconfig.cache
+C:\Users\huandres_schmidt\Desktop\Projetos C#\banco_exercicio_2_semestre_2\banco_exercicio_2_semestre_2\obj\Debug\net8.0\ref\banco_exercicio_2_semestre_2.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "banco_exercicio_2_semestre_2/1.0.0": {
+        "runtime": {
+          "banco_exercicio_2_semestre_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "banco_exercicio_2_semestre_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
